@@ -1,0 +1,44 @@
+{
+  "species": [
+    {
+      "id": 1,
+      "name": "Droid"
+    },
+    {
+      "id": 2,
+      "name": "Ewok"
+    },
+    {
+      "id": 3,
+      "name": "Human"
+    },
+    {
+      "id": 4,
+      "name": "Hutt"
+    },
+    {
+      "id": 5,
+      "name": "Mon Calamari"
+    },
+    {
+      "id": 6,
+      "name": "Rodian"
+    },
+    {
+      "id": 7,
+      "name": "Sullustan"
+    },
+    {
+      "id": 8,
+      "name": "Trandoshan"
+    },
+    {
+      "id": 9,
+      "name": "Wookiee"
+    },
+    {
+      "id": 10,
+      "name": "Yoda's species"
+    }
+  ]
+}

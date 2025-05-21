@@ -1,0 +1,16 @@
+[
+  {
+    "_id": "64292927021f17e13fbc200f",
+    "name": "Jyn Erso",
+    "description": "Putting behind a checkered past by lending her skills to a greater cause, Jyn Erso is impetuous, defiant, and eager to bring the battle to the Empire. Used to operating alone, she finds higher purpose by taking on a desperate mission for the Rebel Alliance.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/jyn-erso_ccf70c46.jpeg",
+    "__v": 0
+  },
+  {
+    "_id": "64292927021f17e13fbc1ee1",
+    "name": "Cassian Andor",
+    "description": "Cassian Andor has spent much of his life watching as the Empire lay waste to the galaxy. As part of his entry into the growing rebellion, he will undertake a dangerous mission to Aldhani and ultimately become an accomplished Alliance Intelligence officer, commanding respect from his rebel troops with his ability to keep a cool head under fire.",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/cassian-andor-main_d583d3b2.jpeg",
+    "__v": 0
+  }
+]
