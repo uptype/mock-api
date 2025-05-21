@@ -1,0 +1,152 @@
+{
+  "characters": [
+    {
+      "id": 1,
+      "name": "Luke Skywalker",
+      "affiliationId": 1,
+      "species": "Human"
+    },
+    {
+      "id": 2,
+      "name": "Darth Vader",
+      "affiliationId": 2,
+      "species": "Human"
+    },
+    {
+      "id": 3,
+      "name": "Leia Organa",
+      "affiliationId": 1,
+      "species": "Human"
+    },
+    {
+      "id": 4,
+      "name": "Han Solo",
+      "affiliationId": 1,
+      "species": "Human"
+    },
+    {
+      "id": 5,
+      "name": "Yoda",
+      "affiliationId": 3,
+      "species": "Yoda's species"
+    }
+  ],
+  "planets": [
+    {
+      "id": 1,
+      "name": "Tatooine",
+      "region": "Outer Rim",
+      "climate": "Arid"
+    },
+    {
+      "id": 2,
+      "name": "Alderaan",
+      "region": "Core Worlds",
+      "climate": "Temperate"
+    },
+    {
+      "id": 3,
+      "name": "Hoth",
+      "region": "Outer Rim",
+      "climate": "Frozen"
+    },
+    {
+      "id": 4,
+      "name": "Dagobah",
+      "region": "Outer Rim",
+      "climate": "Swamp"
+    },
+    {
+      "id": 5,
+      "name": "Endor",
+      "region": "Moddell sector",
+      "climate": "Temperate"
+    }
+  ],
+  "starships": [
+    {
+      "id": 1,
+      "name": "Millennium Falcon",
+      "class": "Light freighter",
+      "crew": 2
+    },
+    {
+      "id": 2,
+      "name": "X-Wing",
+      "class": "Starfighter",
+      "crew": 1
+    },
+    {
+      "id": 3,
+      "name": "TIE Fighter",
+      "class": "Starfighter",
+      "crew": 1
+    },
+    {
+      "id": 4,
+      "name": "Star Destroyer",
+      "class": "Capital ship",
+      "crew": 47060
+    },
+    {
+      "id": 5,
+      "name": "Slave I",
+      "class": "Firespray-31",
+      "crew": 1
+    }
+  ],
+  "films": [
+    {
+      "id": 1,
+      "title": "A New Hope",
+      "episode": 4,
+      "release": 1977,
+      "characterIds": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "id": 2,
+      "title": "The Empire Strikes Back",
+      "episode": 5,
+      "release": 1980,
+      "characterIds": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Return of the Jedi",
+      "episode": 6,
+      "release": 1983,
+      "characterIds": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    }
+  ],
+  "affiliations": [
+    {
+      "id": 1,
+      "name": "Rebel Alliance"
+    },
+    {
+      "id": 2,
+      "name": "Galactic Empire"
+    },
+    {
+      "id": 3,
+      "name": "Jedi Order"
+    }
+  ]
+}
